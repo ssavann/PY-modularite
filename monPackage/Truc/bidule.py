@@ -1,0 +1,5 @@
+'''
+Module Bidule
+'''
+
+print("Bidule")

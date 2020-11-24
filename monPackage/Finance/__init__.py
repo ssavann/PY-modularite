@@ -1,0 +1,1 @@
+print("Je suis le fichier __init__.py de finance")
